@@ -1,0 +1,9 @@
+{
+	"name": "lifegame",
+	"authors": [
+		"ohori.ryuichi%40jp.fujitsu.com"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2020, ohori.ryuichi%40jp.fujitsu.com",
+	"license": "proprietary"
+}
